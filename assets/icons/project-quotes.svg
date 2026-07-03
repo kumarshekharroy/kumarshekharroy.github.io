@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" role="img" aria-label="Quote factory icon">
+  <rect x="10" y="10" width="124" height="124" rx="12" fill="#f7f8f7"/>
+  <path d="M37 45h30v30H52c0 13-6 22-18 26l-4-9c7-3 10-8 10-17h-3V45zm45 0h30v30H97c0 13-6 22-18 26l-4-9c7-3 10-8 10-17h-3V45z" fill="#dceee7" stroke="#16483e" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M35 113h74" stroke="#256d5a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M45 30h54" stroke="#9a6730" stroke-width="5" stroke-linecap="round"/>
+</svg>

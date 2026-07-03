@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" role="img" aria-label="Student guide app icon">
+  <rect x="10" y="10" width="124" height="124" rx="12" fill="#f7f8f7"/>
+  <rect x="45" y="24" width="54" height="96" rx="10" fill="#ffffff" stroke="#16483e" stroke-width="6"/>
+  <path d="M60 39h24M61 105h22" stroke="#256d5a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M54 62c11-7 24-7 36 0v27c-12-7-25-7-36 0V62z" fill="#dceee7" stroke="#16483e" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M72 62v28" stroke="#9a6730" stroke-width="4" stroke-linecap="round"/>
+</svg>

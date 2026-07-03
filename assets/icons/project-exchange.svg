@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" role="img" aria-label="Trading exchange icon">
+  <rect x="10" y="10" width="124" height="124" rx="12" fill="#f7f8f7"/>
+  <path d="M32 99h80" stroke="#16483e" stroke-width="6" stroke-linecap="round"/>
+  <path d="M34 88l18-18 16 11 18-30 24 20" fill="none" stroke="#256d5a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M39 44v54M60 34v64M82 48v50M104 39v59" stroke="#9a6730" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="39" cy="62" r="8" fill="#dceee7" stroke="#16483e" stroke-width="4"/>
+  <circle cx="60" cy="53" r="8" fill="#dceee7" stroke="#16483e" stroke-width="4"/>
+  <circle cx="82" cy="70" r="8" fill="#dceee7" stroke="#16483e" stroke-width="4"/>
+  <circle cx="104" cy="56" r="8" fill="#dceee7" stroke="#16483e" stroke-width="4"/>
+</svg>

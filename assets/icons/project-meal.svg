@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" role="img" aria-label="Food marketplace icon">
+  <rect x="10" y="10" width="124" height="124" rx="12" fill="#f7f8f7"/>
+  <circle cx="72" cy="78" r="35" fill="#ffffff" stroke="#16483e" stroke-width="6"/>
+  <circle cx="72" cy="78" r="21" fill="#dceee7" stroke="#256d5a" stroke-width="5"/>
+  <path d="M39 35v28M50 35v28M39 49h11M105 35v31c0 7-4 11-10 12v31" stroke="#9a6730" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M35 113h74" stroke="#16483e" stroke-width="6" stroke-linecap="round"/>
+</svg>

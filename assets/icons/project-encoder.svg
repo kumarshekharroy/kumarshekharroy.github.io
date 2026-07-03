@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144" role="img" aria-label="Encoder decoder icon">
+  <rect x="10" y="10" width="124" height="124" rx="12" fill="#f7f8f7"/>
+  <path d="M55 43H44c-8 0-12 4-12 12v9c0 6-3 8-8 8 5 0 8 2 8 8v9c0 8 4 12 12 12h11" fill="none" stroke="#16483e" stroke-width="7" stroke-linecap="round"/>
+  <path d="M89 43h11c8 0 12 4 12 12v9c0 6 3 8 8 8-5 0-8 2-8 8v9c0 8-4 12-12 12H89" fill="none" stroke="#16483e" stroke-width="7" stroke-linecap="round"/>
+  <path d="M56 64h31M75 53l12 11-12 11M88 82H57M69 93 57 82l12-11" fill="none" stroke="#256d5a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="72" cy="72" r="45" fill="none" stroke="#dceee7" stroke-width="8"/>
+</svg>
