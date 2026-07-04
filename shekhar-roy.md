@@ -6,7 +6,7 @@
 
 **Email:** [contact@shekharroy.com](mailto:contact@shekharroy.com)
 
-**Website/Portfolio:** [shekharroy.com](https://www.shekharroy.com/)
+**Website/Portfolio:** [shekharroy.com](https://shekharroy.com/)
 
 **LinkedIn:** [linkedin.com/in/shekharroy](https://www.linkedin.com/in/shekharroy/)
 
