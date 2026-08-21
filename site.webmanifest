@@ -6,8 +6,8 @@
   "start_url": "https://shekharroy.com/",
   "scope": "https://shekharroy.com/",
   "display": "standalone",
-  "background_color": "#f7f7f4",
-  "theme_color": "#256d5a",
+  "background_color": "#f5f7fc",
+  "theme_color": "#5967c4",
   "icons": [
     {
       "src": "https://shekharroy.com/favicon-48x48.png",

@@ -7,8 +7,19 @@ const revealItems = Array.from(document.querySelectorAll(".reveal"));
 const themeToggle = document.querySelector("[data-theme-toggle]");
 const themeIcon = document.querySelector("[data-theme-icon]");
 const themeColorMeta = document.querySelector('meta[name="theme-color"]');
+const githubGraphImage = document.querySelector("[data-github-graph]");
 const prefersDark = window.matchMedia("(prefers-color-scheme: dark)");
 const themeStorageKey = "portfolio-theme";
+const themeStyles = {
+  light: {
+    browserColor: "#5967c4",
+    graphColor: "5967c4"
+  },
+  dark: {
+    browserColor: "#0e111a",
+    graphColor: "9aa8ff"
+  }
+};
 
 function getSavedTheme() {
   try {
@@ -28,8 +39,13 @@ function saveTheme(theme) {
 
 function applyTheme(theme, shouldSave = true) {
   const nextTheme = theme === "dark" ? "dark" : "light";
+  const nextStyles = themeStyles[nextTheme];
   document.documentElement.dataset.theme = nextTheme;
-  themeColorMeta?.setAttribute("content", nextTheme === "dark" ? "#0c1211" : "#256d5a");
+  themeColorMeta?.setAttribute("content", nextStyles.browserColor);
+
+  if (githubGraphImage) {
+    githubGraphImage.src = `https://ghchart.rshah.org/${nextStyles.graphColor}/kumarshekharroy`;
+  }
 
   if (themeIcon) {
     themeIcon.className = nextTheme === "dark" ? "bi bi-sun" : "bi bi-moon-stars";
