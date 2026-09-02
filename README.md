@@ -74,8 +74,8 @@ For the custom domain, keep the production URL as `https://shekharroy.com/` so c
 - HTTPS canonical URL for the homepage.
 - Open Graph and Twitter Card metadata with an absolute preview image URL.
 - Search-friendly `robots.txt`.
-- XML sitemap for the canonical homepage.
-- JSON-LD `ProfilePage` structured data for Shekhar Roy and selected project work.
+- XML sitemap for the canonical homepage and first-party web applications linked from the footer.
+- JSON-LD `ProfilePage` structured data for Shekhar Roy, selected project work, and first-party web applications.
 - Updated internal portfolio links from HTTP to HTTPS.
 - Removed a low-value Google search URL from the MMM project card.
 - Added explicit portrait image dimensions to reduce layout shift.

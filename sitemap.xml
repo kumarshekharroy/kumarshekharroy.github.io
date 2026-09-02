@@ -5,12 +5,36 @@
 >
   <url>
     <loc>https://shekharroy.com/</loc>
-    <lastmod>2026-07-04</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://shekharroy.com/assets/images/profile.jpg</image:loc>
       <image:title>Shekhar Roy professional portrait</image:title>
     </image:image>
+  </url>
+  <url>
+    <loc>https://shekharroy.com/endpoint/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shekharroy.com/markdown-viewer/</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shekharroy.com/meri-kundli/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shekharroy.com/interview-prep-app/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
