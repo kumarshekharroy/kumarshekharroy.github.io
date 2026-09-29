@@ -7,6 +7,7 @@ The site presents Shekhar's engineering background across .NET, React, Microsoft
 ## Live Site
 
 - Portfolio: [shekharroy.com](https://shekharroy.com/)
+- Apps and tools: [lunarping.com](https://lunarping.com/)
 - LinkedIn: [linkedin.com/in/shekharroy](https://www.linkedin.com/in/shekharroy/)
 - GitHub: [github.com/kumarshekharroy](https://github.com/kumarshekharroy)
 - Email: [contact@shekharroy.com](mailto:contact@shekharroy.com)
@@ -74,8 +75,8 @@ For the custom domain, keep the production URL as `https://shekharroy.com/` so c
 - HTTPS canonical URL for the homepage.
 - Open Graph and Twitter Card metadata with an absolute preview image URL.
 - Search-friendly `robots.txt`.
-- XML sitemap for the canonical homepage and first-party web applications linked from the footer.
-- JSON-LD `ProfilePage` structured data for Shekhar Roy, selected project work, and first-party web applications.
+- XML sitemap for the canonical homepage.
+- JSON-LD `ProfilePage` structured data for Shekhar Roy, selected project work, and web applications linked from the footer.
 - Updated internal portfolio links from HTTP to HTTPS.
 - Removed a low-value Google search URL from the MMM project card.
 - Added explicit portrait image dimensions to reduce layout shift.
